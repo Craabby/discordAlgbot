@@ -1,5 +1,5 @@
 {
-  "name": "discord-bot",
+  "name": "algebra-solver",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "date": "^1.0.2",
-    "discord.js": "^12.3.1"
+    "algebra": "^1.0.1",
+    "algebra.js": "^0.2.6",
+    "discord": "^0.8.2",
+    "discord.js": "^12.3.1",
+    "math.js": "^1.1.46",
+    "mathjs": "^7.1.0"
   }
-}
